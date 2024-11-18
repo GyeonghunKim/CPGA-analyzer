@@ -1,0 +1,12 @@
+README.md
+setup.py
+cpga_analyzer/__init__.py
+cpga_analyzer/cpga.py
+cpga_analyzer/data_reader.py
+cpga_analyzer/package.py
+cpga_analyzer/units.py
+cpga_analyzer.egg-info/PKG-INFO
+cpga_analyzer.egg-info/SOURCES.txt
+cpga_analyzer.egg-info/dependency_links.txt
+cpga_analyzer.egg-info/not-zip-safe
+cpga_analyzer.egg-info/top_level.txt

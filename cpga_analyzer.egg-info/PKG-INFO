@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cpga_analyzer
+Version: 0.1
+Summary: CPGA analyzer tool
+Home-page: https://github.com/GyeonghunKim/CPGA-analyzer
+Author: Gyeonghun Kim
+Author-email: gyeonghun.kim@duke.edu
+Classifier: Programming Language :: Python :: 3
+
+# CPGA-analyzer
+CPGA analyzer 
